@@ -2,8 +2,10 @@
 
 This is fully responsive  personal portfolio project.<br />
 Using AOS created fully animated portfolio website..<br />
-HTML, CSS, Google Fonts, JavaScript & Jquery are used in this
+HTML, CSS, Google Fonts, JavaScript, AOS & Jquery are used in this
 Project.
+
+### [AOS]( https://github.com/michalsnik/aos )
 
 ---
 
