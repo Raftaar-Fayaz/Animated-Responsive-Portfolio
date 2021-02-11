@@ -5,9 +5,8 @@ Using AOS created fully animated portfolio website..<br />
 HTML, CSS, Google Fonts, JavaScript & Jquery are used in this
 Project.
 
+---
 
-### [Visit Project]( https://xplore-blog.netlify.app )
-<br/>
 <p align="center">
   <img src="https://i.ibb.co/m5P94kD/Screenshot-231.png"/>
  </p>
